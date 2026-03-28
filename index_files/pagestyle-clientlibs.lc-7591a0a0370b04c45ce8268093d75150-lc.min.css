@@ -1,0 +1,8 @@
+body.emcm-body{background-color:#ffff}
+.grecaptcha-badge{display:none}
+.no-background-image{background-image:none !important}
+.tr-Breadcrumb-items{position:relative}
+.tr-Breadcrumb-items::after{border-bottom:.0625rem solid #d0d0d0;content:' ';position:absolute;top:2rem;width:100vw;left:calc(-50vw + 50% - 0.725rem)}
+@media(max-width:767px){#root{overflow:clip}
+.tr-Breadcrumb-items{display:none}
+}
